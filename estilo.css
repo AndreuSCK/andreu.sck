@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+
+}
+h1 {
+    color: mediumspringgreen;
+    font-weight: bold;
+    }
+
+
+a.classe1 {
+font-size: 30px
+
+}
+
